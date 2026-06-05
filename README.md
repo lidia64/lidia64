@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lidia Uwineza :https://lidiawinez.netlify.app/
-- 👀 I’m interested in fronted development,cybersecurity and graphic design 
+- 👀 I’m interested in fullstack  development,cybersecurity and graphic design 
 - 🌱 I’m currently learning backend development and AI & machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luwineza64@gmail.com ,+250798226153
