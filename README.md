@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lidia Uwineza :https://lidiawinez.netlify.app/
+- 👋 Hi, I’m Lidia Uwineza:https://latest-cv.vercel.app/
 -  I’m interested in fullstack  development,cybersecurity and graphic design 
 - I’m currently learning backend development and AI & machine learning 
 - I’m looking to collaborate on ...
